@@ -84,18 +84,17 @@ if __name__ == "__main__":
         base = 10
         skip_num = 25
         db_base = 100
-    #for i in range(5):
-        #train_data, train_label, _, _ = utils.split_data(base, i, data, label)
-        #es_attention = model.ES_Attention(pred2ix_size, pred_embedding_dim, transE_dim, hidden_size, device)
-        #es_attention.to(device)
-        #criterion = torch.nn.BCELoss()
-        ##criterion = torch.nn.MSELoss()
-        #optimizer = optim.Adam(es_attention.parameters(), lr=0.0001, amsgrad=False)
-        #directory = os.path.join(os.getcwd(), "checkpoint-{}-{}".format(DB_NAME, i))
-        #train(es_attention, train_data, train_label, criterion, optimizer, n_epoch, save_every, directory, device)
- # 
+    for i in range(5):
+        train_data, train_label, _, _ = utils.split_data(base, i, data, label)
+        es_attention = model.ES_Attention(pred2ix_size, pred_embedding_dim, transE_dim, hidden_size, device)
+        es_attention.to(device)
+        criterion = torch.nn.BCELoss()
+        #criterion = torch.nn.MSELoss()
+        optimizer = optim.Adam(es_attention.parameters(), lr=0.0001, amsgrad=False)
+        directory = os.path.join(os.getcwd(), "checkpoint-{}-{}".format(DB_NAME, i))
+        train(es_attention, train_data, train_label, criterion, optimizer, n_epoch, save_every, directory, device)
+
     #eval
-    
     directory = path.join(os.getcwd(), DB_NAME)
     if not path.exists(directory):
         os.makedirs(directory)
