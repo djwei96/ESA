@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Irish_War_of_Independence> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "(Déise Brigade)" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "Royal Irish Constabulary" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "border|22pxIrish Republican Army" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "(Reserve Force)" .

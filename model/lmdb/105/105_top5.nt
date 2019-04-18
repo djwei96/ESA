@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0329028> .
+<http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000048fea0> .
+<http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0329028> .
+<http://data.linkedmdb.org/resource/film/2108> <http://www.w3.org/2000/01/rdf-schema#label> "Dumb & Dumberer" .
+<http://data.linkedmdb.org/resource/film/2108> <http://purl.org/dc/terms/date> "2003-06-13" .
