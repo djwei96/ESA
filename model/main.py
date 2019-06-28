@@ -128,7 +128,7 @@ def generator(DB_NAME, base, data, label, entity2vec, pred2ix, pred2ix_size, \
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='ESA: Entity Smmarization with Attention')
-    parser.add_argument("--DB_NAME", type=str, default="dbpedia", help="use dbpedia or lmdb")
+    parser.add_argument("--DB_NAME", "--db_name", type=str, default="dbpedia", help="use dbpedia or lmdb")
     parser.add_argument("--mode", type=str, default="all", help="train, test or all")
     parser.add_argument("--top_n", type=int, default=10, help="use top 5 or 10 gold(label) files")
     parser.add_argument("--file_n", type=int, default=6, help="the number of gold(label) files in ESBM benchmark")
@@ -145,11 +145,13 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.DB_NAME == "dbpedia":
+        print("training model on dbpedia")
         DB_START, DB_END = [1, 141], [101, 166]
         base = 25
         skip_num = 40
         db_base = 0
     elif args.DB_NAME == "lmdb":
+        print("training model on lmdb")
         DB_START, DB_END = [101, 166], [141, 176]
         base = 10
         skip_num = 25

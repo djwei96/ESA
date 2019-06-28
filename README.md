@@ -29,6 +29,43 @@ we also provide a commandline tool for training the ESA model, you can also run 
 ```linux
 python main.py -h
 ```
+for example, if you want to train the model in dbpedia, the commands are as follows:
+```linux
+python main.py \
+    --db_name dbpedia \
+    --mode train \
+    --transE_dim 100 \
+    --pred_embedding_dim 100 \
+    --lr 0.0001 \
+    --clip 50 \
+    --loss_function BCE \
+    --regularization False \
+    --n_epoch 50 \
+    --save_every 2
+```
+if you want to test the model and generate entity summarization results, the commands are as follows:
+```linux
+python main.py \
+    --db_name dbpedia \
+    --model test \
+    --use_epoch 48
+```
+we also provdie a mode called "all" to train and test the same time, the commands are as follows:
+```linux
+python main.py \
+    --db_name dbpedia \
+    --mode all \
+    --transE_dim 100 \
+    --pred_embedding_dim 100 \
+    --lr 0.0001 \
+    --clip 50 \
+    --loss_function BCE \
+    --regularization False \
+    --n_epoch 50 \
+    --save_every 2 \
+    --model test \
+    --use_epoch 48
+```
 ### Test
 ```linux
 cd .../ESA
