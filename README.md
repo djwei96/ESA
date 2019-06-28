@@ -50,7 +50,7 @@ python main.py \
     --model test \
     --use_epoch 48
 ```
-we also provdie a mode called "all" to train and test the same time, the commands are as follows:
+we also provdie a mode called "all" to train and test the model at the same time, the commands are as follows:
 ```linux
 python main.py \
     --db_name dbpedia \
