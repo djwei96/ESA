@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Mike_Fratello> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/Angela_Atwood> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/populationDensity> "940.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/areaLand> "8945818.933100544"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/areaLand> "8946000.0"^^<http://www.w3.org/2001/XMLSchema#double> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Insect> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Arthropod> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://www.w3.org/2000/01/rdf-schema#label> "Hilarographa excellens"@en .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/synonym> "*Hilarographa pyranthis (Meyrick, 1907)" .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Tortricidae> .

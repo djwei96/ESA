@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Player110439851> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GolfersFromGeorgia(U.S.State)> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeorgiaBulldogsWomen'sGolfers> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActor> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q13156709> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Golfer110136959> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/name> "Mackey, Cindy"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/alias> "Pleger, Cindy"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/2000/01/rdf-schema#label> "Cindy Mackey"@en .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/7347> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/runtime> "100" .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1389> .
+<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/7348> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/filmid> "7348"^^<http://www.w3.org/2001/XMLSchema#int> .

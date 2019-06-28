@@ -2,9 +2,9 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-class ES_Attention(nn.Module):
+class ESA(nn.Module):
     def __init__(self, pred2ix_size, pred_embedding_dim, transE_dim, hidden_size, device):
-        super(ES_Attention, self).__init__()
+        super(ESA, self).__init__()
         self.pred2ix_size = pred2ix_size
         self.pred_embedding_dim = pred_embedding_dim
         self.transE_dim = transE_dim

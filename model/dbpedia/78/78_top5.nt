@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "3.372"^^<http://www.w3.org/2001/XMLSchema#float> .
-<http://dbpedia.org/resource/Sauxillanges> <http://dbpedia.org/ontology/elevation> "449.0"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://dbpedia.org/resource/Sauxillanges> <http://dbpedia.org/ontology/populationTotal> "1151"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
-<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "45.551"^^<http://www.w3.org/2001/XMLSchema#float> .
-<http://dbpedia.org/resource/Sauxillanges> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Communes_of_Puy-de-Dôme> .

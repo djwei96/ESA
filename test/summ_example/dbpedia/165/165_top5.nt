@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Chrysalis_Records> .
+<http://dbpedia.org/resource/You_Better_Run> <http://xmlns.com/foaf/0.1/name> "You Better Run"@en .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Felix_Cavaliere> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Eddie_Brigati> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hard_rock> .

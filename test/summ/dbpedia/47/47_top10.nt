@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CinepolyRecordsAlbums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Album106591815> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MandopopAlbums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/2000/01/rdf-schema#label> "Sky (Faye Wong album)"@en .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mandopop_albums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Faye_Wong_albums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sony_Music_Entertainment_albums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Albums_by_Singaporean_artists> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Cinepoly_Records_albums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Mandopop> .

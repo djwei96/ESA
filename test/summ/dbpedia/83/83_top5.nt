@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/synonym> "*Gelechia serrulatella (Tengström, 1848)" .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/synonym> "*Bryotropha brevipalpella (Rebel, 1893)" .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Gelechiidae> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Arthropod> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Bryotropha> .

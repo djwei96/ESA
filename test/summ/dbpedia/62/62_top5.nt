@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/fastestDriverTeam> <http://dbpedia.org/resource/Team_Lotus> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Monza_1957.jpg?width=300> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/firstDriver> <http://dbpedia.org/resource/John_Surtees> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Monza> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Autodromo_Nazionale_Monza> .
