@@ -63,7 +63,6 @@ python main.py \
     --regularization False \
     --n_epoch 50 \
     --save_every 2 \
-    --model test \
     --use_epoch 48
 ```
 ### Test
