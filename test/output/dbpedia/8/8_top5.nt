@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Fired_Wife> <http://dbpedia.org/ontology/basedOn> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/The_Unseen_(1945_film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/WomenTelevisionWriters> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .

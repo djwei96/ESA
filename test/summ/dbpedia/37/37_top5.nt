@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Viperidae> .
-<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Pit_viper> .
-<http://dbpedia.org/resource/Ovophis> <http://www.w3.org/2000/01/rdf-schema#label> "Ovophis"@en .
-<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/synonym> "In Romano-Hoge, 1981" .
-<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/synonym> "* Ovophis Burger" .

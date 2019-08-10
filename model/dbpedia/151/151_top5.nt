@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Summer_Time> .
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/utcOffset> "+3" .
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/utcOffset> "+2" .
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Bulgaria> .

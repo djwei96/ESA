@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/4492> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/12796> .
+<http://data.linkedmdb.org/resource/film/1338> <http://purl.org/dc/terms/title> "Soldier" .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/filmid> "1338"^^<http://www.w3.org/2001/XMLSchema#int> .
