@@ -2,7 +2,7 @@
 Entity Summarization with Attention
 ## BACKGROUND AND CONTRIBUTORS
 ### Background
-This [paper](https://arxiv.org/abs/1905.10625) is in procedings of CIKM 2019, we propose a novel tenchnie in entity summarization task with attention mechanism.
+This paper is in procedings of EYRE 2019, we propose a novel tenchnie in entity summarization task with attention mechanism.
 ### Contributors
 - **Dongjun Wei** weidongjun@iie.ac.cn
 - **Yaxin Liu** liuyaxin@iie.ac.cn
