@@ -1,11 +1,5 @@
 # ESA: Entity Summarization with Attention
 Entity Summarization with Attention
-## BACKGROUND AND CONTRIBUTORS
-### Background
-This paper is in proceddings of EYRE 2019, we propose a novel technique in entity summarization task with attention mechanism.
-### Contributors
-- **Dongjun Wei** weidongjun@iie.ac.cn
-- **Yaxin Liu** liuyaxin@iie.ac.cn
 ## ENVIRONMENT AND DEPENDENCY
 ### Environment
 - Ubuntu 16.04
