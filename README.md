@@ -66,8 +66,8 @@ cd test
 sh run.sh
 ```
 ### Citation
-if you use this code, please kindly cite it as follows:
-'''
+if you use our model or code, please kindly cite it as follows:
+```
 @inproceedings{ESA,
   author    = {Dongjun Wei and
                Yaxin Liu and
@@ -80,5 +80,5 @@ if you use this code, please kindly cite it as follows:
   booktitle = {EYRE@CIKM},
   year      = {2019}
 }
-'''
+```
 
