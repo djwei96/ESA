@@ -65,3 +65,20 @@ cd .../ESA
 cd test
 sh run.sh
 ```
+### Citation
+if you use this code, please kindly cite it as follows:
+'''
+@inproceedings{ESA,
+  author    = {Dongjun Wei and
+               Yaxin Liu and
+               Fuqing Zhu and
+               Liangjun Zang and
+               Wei Zhou and
+               Jizhong Han and 
+               Songlin Hu},
+  title     = {ESA: Entity Summarization with Attention},
+  booktitle = {EYRE@CIKM},
+  year      = {2019}
+}
+'''
+
