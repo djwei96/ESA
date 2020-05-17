@@ -1,5 +1,5 @@
 # ESA: Entity Summarization with Attention
-Entity Summarization with Attention
+EYRE@CIKM'19 paper: "Entity Summarization with Attention"
 ## ENVIRONMENT AND DEPENDENCY
 ### Environment
 - Ubuntu 16.04
