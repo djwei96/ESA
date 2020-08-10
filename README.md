@@ -65,7 +65,7 @@ cd .../ESA
 cd test
 sh run.sh
 ```
-## Citation
+## CITATION
 if you use our model or code, please kindly cite it as follows:
 ```
 @inproceedings{ESA,
